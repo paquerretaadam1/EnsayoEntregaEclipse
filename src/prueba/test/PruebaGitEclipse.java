@@ -1,7 +1,11 @@
 package prueba.test;
 
 import prueba.modelo.Saludo;
-
+/**
+ * Punto de entrada a la aplicacion
+ * @author josef
+ *
+ */
 public class PruebaGitEclipse {
 
 	public static void main(String[] args) {
